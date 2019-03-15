@@ -1,10 +1,10 @@
 <?php
 include'../header.php';
 ?>
-</header><title>CCN Gate 2 Checker - TC-ID Tools</title>
+</header><title>CCN Checker - IES Tools</title>
 <div class="rightside">
 <div class="page-head">
-<h1><i class="fa fa-flag"></i> CCN Gate 2 Checker</h1>
+<h1><i class="fa fa-flag"></i> CCN Checker</h1>
 </div>
 <div class="content">
 <div class="row">
@@ -15,7 +15,7 @@ include'../header.php';
 <div class="box">
 <div class="box-title">
 <h3><i class="fa fa-credit-card"></i>
-CCN Gate 2 Checker</h3>
+CCN Checker</h3>
 </div>
 <div class="box-body box-body-nopadding">
 <div class="row">
@@ -49,7 +49,7 @@ CCN Gate 2 Checker</h3>
 <form action="" method="post" class='form-vertical'>
 <div class="col-lg-6">
 <label for="mailpass" class="control-label">Resource:</label>
-<textarea name="mailpass" id="mailpass" class="form-control" rows="7" placeholder="53012724539xxxxx|05|14|653"></textarea>
+<textarea name="mailpass" id="mailpass" class="form-control" rows="7" placeholder="530127xxxxx|07|14|382"></textarea>
 </div>
 <div class="col-lg-4">
 <label>Status Check:</label>
